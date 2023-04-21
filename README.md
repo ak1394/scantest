@@ -1,1 +1,1 @@
-# scantest 1 2
+# scantest 1 2 3
